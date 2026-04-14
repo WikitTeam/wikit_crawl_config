@@ -71,6 +71,9 @@
     },
     "backrooms-x-cn": {
       "tags": ["-_wikit-nocrawl"]
+    },
+    "science-first": {
+      "tags": ["-_wikit-nocrawl"]
     }
   }
 }
