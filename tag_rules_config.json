@@ -72,6 +72,9 @@
     "cas-wiki-cn": {
       "tags": ["-_wikit-nocrawl"]
     },
+    "our-backroom": {
+      "tags": ["-_wikit-nocrawl"]
+    },
     "backroomss": {
       "tags": ["-_wikit-nocrawl"]
     }
